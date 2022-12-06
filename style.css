@@ -8,9 +8,14 @@ header {
 }
 
 h1 {
+<<<<<<< HEAD
     color: lightcoral;
 }
 
 p {
     color: white;
+=======
+    color: yellow;
+    font-size: 200px;
+>>>>>>> elin
 }
