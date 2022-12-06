@@ -7,11 +7,27 @@ ul {
     flex-direction: row;
 }
 
+li {
+    list-style: none;
+    padding: 1rem;
+    border: 2px solid white;
+    border-radius: 2rem;
+    margin: 1rem;
+}
+
+a {
+    text-decoration: none;
+    color:white;
+}
+
 h1 {
     color: lightcoral;
 }
 
 p {
+    color: white;
+    color: yellow;
+    font-size: 200px;
     color: yellow;
     font-size: 200px;
 
