@@ -2,7 +2,7 @@ body {
     background: lightblue;
 }
 
-header {
+ul {
     display: flex;
     flex-direction: row;
 }
